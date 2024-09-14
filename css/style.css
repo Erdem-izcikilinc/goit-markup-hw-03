@@ -60,6 +60,7 @@ img {
     font-family: "Raleway", sans-serif;
     color: #2e2f42;
     text-decoration: none;
+    margin-right: 60px;
 }
 
 .header-nav {
@@ -70,9 +71,6 @@ img {
 .nav-list {
     display: flex;
     gap: 40px;
-}
-
-.nav-link {
     padding: 24px 0;
 }
 
@@ -125,7 +123,7 @@ img {
     justify-content: center;
 }
 
-.section-image-title {
+.image-title {
     max-width: 496px;
     height: 120px;
     font-size: 56px;
@@ -188,7 +186,7 @@ img {
     width: calc((100% - 72px) / 4);
 }
 
-.feature-list-h3 {
+.feature-title {
     margin-bottom: 8px;
     color: #2e2f42;
     font-weight: 500;
