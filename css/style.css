@@ -60,7 +60,7 @@ img {
     font-family: "Raleway", sans-serif;
     color: #2e2f42;
     text-decoration: none;
-    margin-right: 60px;
+    margin-right: 76px;
 }
 
 .header-nav {
@@ -71,13 +71,12 @@ img {
 .nav-list {
     display: flex;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .nav-link {
-    margin-right: 76px;
     color: #2e2f42;
     text-decoration: none;
+    padding: 24px 0;
 }
 
 .nav-link:hover {
@@ -93,6 +92,7 @@ img {
 .address-list {
     display: flex;
     gap: 40px;
+    margin-left: 350px;
 }
 
 .address-link {
