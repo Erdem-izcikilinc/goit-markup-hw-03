@@ -63,7 +63,7 @@ img {
     margin-right: 76px;
 }
 
-.logo .logo-1 {
+.logo {
     margin-right: 76px;
 }
 
@@ -96,6 +96,7 @@ img {
 .address-list {
     display: flex;
     gap: 40px;
+    margin-left: 250px;
 }
 
 .address-link {
